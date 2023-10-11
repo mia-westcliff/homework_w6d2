@@ -81,7 +81,6 @@ section .container {
     width: 1200px;
     padding: 2em 0 2em 0;
     margin: 0 auto;
-    text-align: center;
 }
 section .container .partner {
     display: inline-block;
@@ -233,4 +232,4 @@ footer #nondisclaimer .social .fa-instagram {
         min-height: 450px;
         margin-top: 1em;
       }
-} 
+}
